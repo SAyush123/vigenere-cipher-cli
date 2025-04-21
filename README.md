@@ -85,7 +85,7 @@ vigenere-cipher/
 ## 📣 Author
 
 Made with 💻 by [Ayush Sharma]  
-🔗 [your-portfolio-link.com](https://www.linkedin.com/in/ayush-s-5b3a18336/) | [GitHub](https://github.com/SAyush123) | [LinkedIn]((https://www.linkedin.com/in/ayush-s-5b3a18336/))
+🔗(https://www.linkedin.com/in/ayush-s-5b3a18336/) | [GitHub](https://github.com/SAyush123) | [LinkedIn]((https://www.linkedin.com/in/ayush-s-5b3a18336/))
 
 ---
 
